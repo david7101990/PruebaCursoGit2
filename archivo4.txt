@@ -1,5 +1,9 @@
 linea 1
 linea 2
+<<<<<<< HEAD
 linea 3
 linea 4
 linea 5
+=======
+
+>>>>>>> parent of a5a5cc3 (Agregando linea 3)
